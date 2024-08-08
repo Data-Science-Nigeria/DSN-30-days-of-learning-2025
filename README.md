@@ -11,7 +11,7 @@
 
 Our 30 days courses
 - Sign up here:[click to register](https://t.co/5ayemRWgmE)
-- [Tweet about the courses!](https://twitter.com/intent/tweet?text=Join%20the%2030%20Days%20of%20Learning%20organized%20by%20%40dsn_ai_network%20and%20level%20up%20your%20Skills%0A%0ACourses%3A%0AMicrosoft%20Power%20BI%0AML%20with%20Azure%0AML%20with%20Python%0A%0ADon%27t%20miss%20out%20on%20this%20amazing%20opportunity%21%20Register%20here%3A%20bit.ly%2FDSN24Prebootcamplearning%20%2330daysLearning)
+- [Tweet about the courses!](https://twitter.com/intent/tweet?text=Join%20the%2030%20Days%20of%20Learning%20organized%20by%20%40dsn_ai_network%20and%20level%20up%20your%20Skills%0A%0ACourses%3A%0AMicrosoft%20Power%20BI%0AMachine%20Learning%20with%20Python%20and%20Azure%0A%0ADon%27t%20miss%20out%20on%20this%20amazing%20opportunity%21%20Register%20here%3A%20bit.ly%2FDSN24Prebootcamplearning%20%2330daysLearning)
 - For announcements, join our [Telegram channel](https://t.me/+YvF8TQvmYmRhNjdk)
 
 ## Taking the courses
@@ -30,9 +30,8 @@ Our 30 days courses
 
 This 30-day learning program consists of four different courses: 
 
-1. Machine Learning with Microsoft Azure
+1. Machine Learning with  Python and Microsoft Azure
 2. Microsoft Power BI
-3. Machine Learning with Python
 
 Each course focuses on specific technologies and provides comprehensive knowledge and practical skills in their respective domains.
 
@@ -53,9 +52,6 @@ To make the most out of this learning program, participants should have the foll
 
 **Microsoft Power BI:**
 - Basic understanding of data analysis concepts and techniques.
-
-**Microsoft Power Apps:**
-- Basic knowledge of app development concepts.
 
 **Machine Learning with Microsoft Azure:**
 - Prior exposure to machine learning concepts and techniques.
