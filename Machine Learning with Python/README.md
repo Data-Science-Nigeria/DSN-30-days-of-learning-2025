@@ -32,53 +32,37 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 
 | Day   | Topic/Subject Matter                                                                |
 | ------| ----------------------------------------------------------------------------------- |
-| 1     | [Python with Jupyter Notebook installation and interface familiarity](https://youtu.be/p0sSwK2SPu0) |
-| 2     | [Python notebooks](https://youtu.be/X9PQmo-mbz4)                                 |
-| 3     | [Python Basis](https://youtu.be/546jHm4OEks)                                    |
-| 4     | [Python Basis](https://youtu.be/546jHm4OEks)                                    |
-| 5     | [Python Basis](https://youtu.be/546jHm4OEks)                                    |
-| 6     | [Python Basis](https://youtu.be/546jHm4OEks)                                      |
-| 7     | [Python Libraries (NumPy)](https://youtu.be/LFF5M7vyWBg)                          |
-| 8     | [Python Libraries (NumPy)](https://youtu.be/LFF5M7vyWBg)                          |
-| 9     | [Python Libraries (Pandas)](https://youtu.be/eXoJER3hCb8)                         |
-| 10    | [Python Libraries (Pandas)](https://youtu.be/eXoJER3hCb8)                         |
-| 11    | [Python Library (Matplotlib)](https://youtu.be/5yZpTX9-K3I)                       |
-| 12    | [Python Libraries (Pandas viz)](https://youtu.be/cnLLnk4KGmM)                     |
-| 13    | [Python Library (Seaborn)](https://youtu.be/G4hnjgX78oA)                          |
-| 14    | [Python Library (Seaborn)](https://youtu.be/G4hnjgX78oA)                          |
-| 15    | [Time Series with Python](https://youtu.be/pMMbcT0UZUA)                            |
-| 16    | [Time Series with Python](https://youtu.be/pMMbcT0UZUA)                            |
-| 17    | [Time Series with Python](https://youtu.be/pMMbcT0UZUA)                            |
-| 18    | [Scikit Learn](https://youtu.be/0B5eIE_1vpU)                                      |
-| 19    | [Scikit Learn](https://youtu.be/0B5eIE_1vpU)                                      |
-| 20    | [Scikit Learn](https://youtu.be/0B5eIE_1vpU)                                      |
-| 21    | [Scikit Learn](https://youtu.be/0B5eIE_1vpU)                                      |
-| 22    | [Scikit Learn](https://youtu.be/0B5eIE_1vpU)                                      |
-| 23    | [Scikit Learn](https://youtu.be/0B5eIE_1vpU)                                      |
-| 24    | [Introduction to Machine Learning](https://youtu.be/ujTCoH21GlA)                   |
-| 25    | [Linear Regression 1](https://youtu.be/45ryDIPHdGg)                               |
-| 26    | [Linear Regression 2](https://youtu.be/1BYu65vLKdA)                               |
-| 27    | [Saving models and Plotting Data](https://youtu.be/3AQ_74xrch8)                    |
-| 28    | [Irregular Data](https://youtu.be/ddqQUz9mZaM)                                    |
-| 29    | [K-Nearest Neighbor](https://youtu.be/vwLT6bZrHEE)                                |
-| 30    | [Implementation of K-Nearest Neighbor](https://youtu.be/TQKI0KE-JYY)               |
-| 31    | [Sklearn dataset](https://youtu.be/dNBvQ38MlT8)                                   |
-| 32    | [Support Vector Machine](https://youtu.be/JHxyrMgOUWI)                            |
-| 33    | [Implementation of Support Vector Machine](https://youtu.be/l2I8NycJMCY)           |
-| 34    | [Clustering](https://youtu.be/g1Zbuk1gAfk)                                        |
-| 35    | [Implementation of Clustering](https://youtu.be/zixd-si9Q-o)                       |
-| 36    | [Decision Tree](https://youtu.be/RmajweUFKvM)                                     |
-| 37    |   Project                                               |
-| 38    |   Project                                                 |
-| 39    |   Project                                         |
-| 40    |   Project                                      |
-| 41    |   Project                                             |
-| 42    |   Project                                              |
-| 43    |   Project                                             |
-| 44    |   Project                                              |
-| 45    |   Project                                                 |
-| 46    |   Project                                                |
-| 47    |   Project                                               |
-| 48    |   Project                                                | 
-| 49    |   Project                                             |
-| 50    |   Project                                                |
+| 1     | [	Introduction to Python](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/intro-to-python/&sa=D&source=editors&ust=1723135780850795&usg=AOvVaw1VI4WlSYOD8qhHnEEnCbeD) |
+| 2     | [Introduction to Jupyter](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/python-create-run-jupyter-notebook/&sa=D&source=editors&ust=1723135780851166&usg=AOvVaw2GwEn97pJMEAMUW6zAVa04)                                 |
+| 3     | [Introduction to object-oriented programming with Python](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/python-object-oriented-programming/&sa=D&source=editors&ust=1723135780851288&usg=AOvVaw0MxSBMqpE2V29JnEMc66xL)                                    |
+| 4     | [	Introduction to machine learning](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning/&sa=D&source=editors&ust=1723135780851407&usg=AOvVaw1iCFfnznjq7YCwcdrXrL14)                                    |
+| 5     | [Build classical machine learning models with supervised learning](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning/&sa=D&source=editors&ust=1723135780851496&usg=AOvVaw0hfv5BZ9e3p686HJveUbWO)                                    |
+| 6     | [Introduction to data for machine learning](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning/&sa=D&source=editors&ust=1723135780851591&usg=AOvVaw2242SDuwmUGS3dzcdFKPsz)                                      |
+| 7     | [Explore and analyze data with Python](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/&sa=D&source=editors&ust=1723135780851717&usg=AOvVaw0lZ9UVShihP6RPWVFul2CY)                          |
+| 8     | [Train and understand regression models in machine learning](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning/&sa=D&source=editors&ust=1723135780851841&usg=AOvVaw2-MCSOdyQ8BEpjE32hDw4P)                          |
+| 9     | [Refine and test machine learning models](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/test-machine-learning-models/&sa=D&source=editors&ust=1723135780852000&usg=AOvVaw0EOK7fF63aB-IJ9JYTIun9)                         |
+| 10    | [Train and evaluate regression models]([https://youtu.be/eXoJER3hCb8](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/train-evaluate-regression-models/&sa=D&source=editors&ust=1723135780852085&usg=AOvVaw2HFqFBUF507wDc3xxFT_Ee))                         |
+| 11    | [	Create and understand classification models in machine learning](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/understand-classification-machine-learning/&sa=D&source=editors&ust=1723135780852197&usg=AOvVaw3bOQCRkyAL8irQD-OreFRa)                       |
+| 12    | [Select and customize architectures and hyperparameters using random forest]((https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/machine-learning-architectures-and-hyperparameters/&sa=D&source=editors&ust=1723135780852289&usg=AOvVaw3F8TY2eyr4yku-I24Q9-rD))                     |
+| 13    | [Confusion matrix and data imbalances](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/machine-learning-confusion-matrix/&sa=D&source=editors&ust=1723135780852377&usg=AOvVaw0ETMgYvCduAK8tttzhzHZ_)                          |
+| 14    | [Measure and optimize model performance with ROC and AUC](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/optimize-model-performance-roc-auc/&sa=D&source=editors&ust=1723135780852456&usg=AOvVaw3RgrWLTxteBv42krvBy0ck)                          |
+| 15    | [Train and evaluate clustering models](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/train-evaluate-cluster-models/&sa=D&source=editors&ust=1723135780852563&usg=AOvVaw1yh-v17ku2pWk8iSBBku5U)                            |
+| 16    | [Train and evaluate deep learning models](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-models/&sa=D&source=editors&ust=1723135780852677&usg=AOvVaw2ay17GStKgt1n11lV7gngw)                            |
+## Azure With Amchine Learning
+| 17    | [Design a machine learning solution](https://learn.microsoft.com/en-us/training/paths/design-machine-learning-solution/)                            |
+| 18    | [Design a machine learning solution](https://learn.microsoft.com/en-us/training/paths/design-machine-learning-solution/)                            |
+| 19    | [Explore and configure the Azure Machine Learning workspace](https://learn.microsoft.com/en-us/training/paths/explore-azure-machine-learning-workspace/)                                      |
+| 20    | [Explore and configure the Azure Machine Learning workspace](https://learn.microsoft.com/en-us/training/paths/explore-azure-machine-learning-workspace/)                                      |
+| 21    | [Explore and configure the Azure Machine Learning workspace](https://learn.microsoft.com/en-us/training/paths/explore-azure-machine-learning-workspace/)                                      |
+| 22    | [Explore and configure the Azure Machine Learning workspace](https://learn.microsoft.com/en-us/training/paths/explore-azure-machine-learning-workspace/)                                      |
+| 23    | [Experiment with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/automate-machine-learning-model-selection-azure-machine-learning/)                                      |
+| 24    | [Experiment with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/automate-machine-learning-model-selection-azure-machine-learning/)                                      |
+| 25    | [Optimize model training with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/use-azure-machine-learning-pipelines-for-automation/)                                      |
+| 26    | [Optimize model training with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/use-azure-machine-learning-pipelines-for-automation/)                                      |
+| 27    | [Manage and review models in Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/manage-review-models-azure-machine-learning/)                                      |
+| 28    | [Manage and review models in Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/manage-review-models-azure-machine-learning/)                                      |
+| 29    | [Deploy and consume models with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/deploy-consume-models-azure-machine-learning/)                                      |
+| 30    | | 19    | [Experiment with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/automate-machine-learning-model-selection-azure-machine-learning/)                                      |   
+
+## Practice 
+[Experiment with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/automate-machine-learning-model-selection-azure-machine-learning/)               
