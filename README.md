@@ -11,8 +11,7 @@
 
 Our 30 days courses
 - Sign up here:[click to register]https://t.co/5ayemRWgmE
-- Join the [#courses-30days-of-learning](https://join.slack.com/t/datascientist-ttx1749/shared_invite/zt-1xzz6ovmc-HySsbUDph72ViIdU6cydlw) channel
-- [Tweet about the courses!](https://twitter.com/intent/tweet?text=Join%20the%2050%20Days%20of%20Learning%20organized%20by%20%40dsn_ai_network%20and%20level%20up%20your%20skills%0A%0ACourses%3A%0AMicrosoft%20Power%20BI%0AMicrosoft%20PowerApps%0AML%20with%20Azure%0AML%20with%20Python%0A%0ADon%27t%20miss%20out%20on%20this%20amazing%20opportunity%21%20Register%20here%3A%20bit.ly%2FDSN-Microsoft-50days-Learning%20%2350daysLearning)
+- [Tweet about the courses!](https://twitter.com/intent/tweet?text=Join%20the%30%20Days%20of%20Learning%20organized%20by%20%40dsn_ai_network%20and%20level%20up%20your%20 Skills%0A%0ACourses%3A%0AMicrosoft%20Power%20BI%0AML%20with%20Azure%0AML%20with%20Python%0A%0ADon%27t%20miss%20out%20on%20this%20amazing%20opportunity%21%20Register%20here%3A%20bit.ly%2FDSN24Prebootcamplearning%20%2350daysLearning)
 - For announcements, join our [Telegram channel](https://t.me/+YvF8TQvmYmRhNjdk)
 
 ## Taking the courses
