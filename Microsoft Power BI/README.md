@@ -33,56 +33,35 @@ Please ensure that you have the necessary software and accounts set up before pr
 | Day | Module                                          |
 |-----|-------------------------------------------------|
 | 1   | [Describe the capabilities of Microsoft Power BI](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-power-bi) |
-| 2   | [Describe the capabilities of Microsoft Power BI](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-power-bi) |
-| 3   | [Explore what Power BI can do for you](https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-power-bi) |
-| 4   | [Explore what Power BI can do for you](https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-power-bi) |
-| 5   | [Explore what Power BI can do for you](https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-power-bi) |
-| 6   | [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-power-bi) |
-| 7   | [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-power-bi) |
-| 8   | [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 9   | [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 10  | [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 11  | [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 12  | [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 13  | [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 14  | [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 15  | [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 16  | [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 17  | [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
-| 18  | [Describe Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
-| 19  | [Choose a Power BI model framework](https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
-| 20  | [Choose a Power BI model framework](https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
-| 21  | [Design a data model in Power BI](https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
-| 22  | [Design a data model in Power BI](https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
-| 23  | [Design a data model in Power BI](https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
-| 24  | [Design a data model in Power BI](https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
-| 25  | [Add measures to Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
-| 26  | [Add calculated tables and columns to Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
-| 27  | [Scope report design requirements](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 28  | [Work with Power BI visuals](https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 29  | [Work with Power BI visuals](https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 30  | [Work with Power BI visuals](https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 31  | [Work with Power BI visuals](https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 32  | [Create a data-driven story with Power BI reports](https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 33  | [Create a data-driven story with Power BI reports](https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.build-power-bi-visuals-reports) |
-| 34  | [Publish and share in Power BI](https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
-| 35  | [Publish and share in Power BI](https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
-| 36  | [Explore data in Power BI](https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
-| 37  | [Explore data in Power BI](https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.distribute-power-bi-insights) |
-| 38  | [Understand the Power BI administrator role](https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.introduction-power-bi-administration) |
-| 39  | [Establish a Power BI environment](https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.introduction-power-bi-administration) |
-| 40  | [Establish a data access infrastructure in Power BI](https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.introduction-power-bi-administration) |
-| 41  | Project                                         |
-| 42  | Project                                                  |
-| 43  | Project                                                  |
-| 44  | Project                                                  |
-| 45  | Project                                                  |
-| 46  | Project                                                  |
-| 47  | Project                                                  |
-| 48  | Project                                                  |
-| 49  | Project                                                  |
-| 50  | Project                                                  |
-
+| 2   | [Explore what Power BI can do for you](https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-power-bi) |
+| 3   | [Discover Data Analysis](https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/) |
+| 4   | [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-power-bi) |
+| 5   | [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
+| 6   | [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/)
+| 7  | [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
+| 8  | [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
+| 9  | [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-transform-data-power-bi) |
+| 10  | [Design a semantic model in Power BI](https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/) |
+| 11  | [Design a semantic model in Power BI](https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/) |
+| 12  | [Design a semantic model in Power BI](https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/) |
+| 13  | [Add measures to Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
+| 14  | [Add calculated tables and columns to Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.model-data-power-bi) |
+| 15  | [Use DAX time intelligence functions in Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/) |
+| 16 | [Use DAX time intelligence functions in Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/) |
+| 17  | [Optimize a model for performance in Power BI](https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/) |
+| 18  | [Optimize a model for performance in Power BI](https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/) |
+| 19  | [Design Power BI reports](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/) |
+| 20  | [Design Power BI reports](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/) |
+| 21  | [Design Power BI reports](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/) |
+| 22  | [Configure Power BI report filters](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/) |
+| 23  | [Enhance Power BI report designs for the user experience](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/) |
+| 24  | [Enhance Power BI report designs for the user experience](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/) |
+| 25  | [Perform analytics in Power BI](https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/) |
+| 26  | [Perform analytics in Power BI](https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/) |
+| 27  | [Create and manage workspaces in Power BI](https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/) |
+| 28  | [Create dashboards in Power BI](https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/) |
+| 29  | [Implement row-level security](https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/) |
+| 30  | [Practice Exam](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/practice/assessment?assessment-type=practice&assessmentId=48&practice-assessment-type=certification) |                                                  |
 
 ## Additional Resources
 
