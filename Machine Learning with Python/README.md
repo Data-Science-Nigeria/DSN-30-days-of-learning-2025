@@ -1,8 +1,10 @@
-# Machine Learning with Python
+# Machine Learning with Python and Azure
 
-Welcome to the Machine Learning with Python guide! This section covers various topics related to machine learning using Python. It provides an overview of essential concepts and techniques, including data preprocessing, model training, evaluation, and visualization.
+Welcome to the Machine Learning with Python and Azure guide! This section covers various topics related to machine learning using Python and Azure. It provides an overview of essential concepts and techniques, including data preprocessing, model training, evaluation, visualization, exploring Azure Machine Learning workspace resources, deploying models and performing hyperparameter tuning, you will gain a comprehensive understanding of machine learning in the Azure environment.
 
 ## Description
+
+### Machine Learning with Python
 
 In this learning path, you will:
 
@@ -27,6 +29,37 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 
 ### Additional Resources on Python:
 [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
+
+### Machine Learning with Azure
+In this learning path, you will:
+
+- Explore Azure Machine Learning workspace resources and assets
+- Learn about developer tools for workspace interaction
+- Make data available in Azure Machine Learning
+- Discover the best classification models with Automated Machine Learning
+- Run training scripts and track model training with MLflow
+- Run pipelines in Azure Machine Learning
+- Perform hyperparameter tuning
+- Deploy models to manage online and batch endpoints
+- Get hands-on experience with the Azure Machine Learning SDK
+- Train machine learning models with Azure Machine Learning
+- Work with data and compute resources in Azure Machine Learning
+- Orchestrate machine learning workflows with pipelines
+- Deploy real-time machine learning services
+- Deploy batch inference pipelines
+- Explore differential privacy in machine learning
+- Explain machine learning models and detect/mitigate unfairness
+- Monitor models and detect data drift
+- Explore security concepts in Azure Machine Learning
+
+## Prerequisites
+
+Before starting this learning path, it is recommended to have a basic understanding of machine learning concepts and some familiarity with Microsoft Azure. You will need:
+
+- An Azure subscription (you can sign up for a free trial at [Azure website](https://azure.microsoft.com/))
+- Azure Machine Learning workspace (set up the workspace in Azure portal)
+
+Please ensure that you have the necessary prerequisites set up before proceeding with the modules.
 
 ## Modules
 
