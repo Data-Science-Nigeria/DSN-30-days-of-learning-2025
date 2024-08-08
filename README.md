@@ -1,6 +1,6 @@
 # DSN X Microsoft-30-days-of-Online-Study-2024
 
-[![Image](https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023/blob/main/images/MicrosoftTeams-image%20(15).png?raw=true)]()
+[![Image](https://github.com/Data-Science-Nigeria/DSN-30-days-of-learning-2024/blob/main/images/30%20(4).png)]()
 
 
 <p align="center">
