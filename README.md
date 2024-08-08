@@ -1,4 +1,4 @@
-# DSN and Microsoft-30-days-of-Online-Study-2024
+# DSN X Microsoft-30-days-of-Online-Study-2024
 
 [![Image](https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023/blob/main/images/MicrosoftTeams-image%20(15).png?raw=true)]()
 
@@ -17,8 +17,8 @@ Our 30 days courses
 ## Taking the courses
 
 ### 2024 Cohort
-- Start: 12 August 2024 (Monday)
-- Registration link: https://bit.ly/DSN-Microsoft-50days-Learning
+- Start: 12th August 2024 (Monday)
+- Registration link: https://bit.ly/DSN24Prebootcamplearning
 
 ### Self-paced Mode
 
