@@ -1,4 +1,4 @@
-# DSN and Microsoft-50-days-of-Online-Study-2023
+# DSN and Microsoft-30-days-of-Online-Study-2024
 
 [![Image](https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023/blob/main/images/MicrosoftTeams-image%20(15).png?raw=true)]()
 
@@ -9,16 +9,16 @@
   </a>
 </p>
 
-Our 50 days courses
-- Sign up here: https://bit.ly/DSN-Microsoft-50days-Learning
-- Join the [#courses-50days-of-learning](https://join.slack.com/t/datascientist-ttx1749/shared_invite/zt-1xzz6ovmc-HySsbUDph72ViIdU6cydlw) channel
+Our 30 days courses
+- Sign up here:[click to register]https://t.co/5ayemRWgmE
+- Join the [#courses-30days-of-learning](https://join.slack.com/t/datascientist-ttx1749/shared_invite/zt-1xzz6ovmc-HySsbUDph72ViIdU6cydlw) channel
 - [Tweet about the courses!](https://twitter.com/intent/tweet?text=Join%20the%2050%20Days%20of%20Learning%20organized%20by%20%40dsn_ai_network%20and%20level%20up%20your%20skills%0A%0ACourses%3A%0AMicrosoft%20Power%20BI%0AMicrosoft%20PowerApps%0AML%20with%20Azure%0AML%20with%20Python%0A%0ADon%27t%20miss%20out%20on%20this%20amazing%20opportunity%21%20Register%20here%3A%20bit.ly%2FDSN-Microsoft-50days-Learning%20%2350daysLearning)
-- For announcements, join our [Telegram channel](https://t.me/DSN_Courses)
+- For announcements, join our [Telegram channel](https://t.me/+YvF8TQvmYmRhNjdk)
 
 ## Taking the courses
 
-### 2023 Cohort
-- Start: 26 June 2023 (Monday)
+### 2024 Cohort
+- Start: 12 August 2024 (Monday)
 - Registration link: https://bit.ly/DSN-Microsoft-50days-Learning
 
 ### Self-paced Mode
@@ -29,23 +29,22 @@ Our 50 days courses
 
 # Overview
 
-This 50-day learning program consists of four different courses: 
+This 30-day learning program consists of four different courses: 
 
 1. Machine Learning with Microsoft Azure
-2. Microsoft Power Apps
-3. Microsoft Power BI
-4. Machine Learning with Python
+2. Microsoft Power BI
+3. Machine Learning with Python
 
 Each course focuses on specific technologies and provides comprehensive knowledge and practical skills in their respective domains.
 
 ### Objective
 
-The aim of this learning program is to equip participants with practical knowledge and skills in the areas of Machine Learning with Microsoft Azure, Microsoft Power Apps, Microsoft Power BI, and Machine Learning with Python. By the end of the program, participants will have a deep understanding of the core concepts, tools, and techniques related to each course. They will be able to utilize these technologies to solve complex problems, build applications, create visualizations, and deploy machine learning models in a production environment.
+The aim of this learning program is to equip participants with practical knowledge and skills in the areas of Machine Learning with Microsoft Azure, Microsoft Power BI, and Machine Learning with Python. By the end of the program, participants will have a deep understanding of the core concepts, tools, and techniques related to each course. They will be able to utilize these technologies to solve complex problems, build applications, create visualizations, and deploy machine learning models in a production environment.
 
 ### Target Audience
 
 The program is designed for:
-- Tech enthusiasts who have a keen interest in acquiring skills related to machine learning with Microsoft Azure, Microsoft Power Apps, Microsoft Power BI, and machine learning with Python.
+- Tech enthusiasts who have a keen interest in acquiring skills related to machine learning with Microsoft Azure, Microsoft Power BI, and machine learning with Python.
 - Professionals seeking to enrich their knowledge in machine learning, app development, and data visualization.
 - Individuals looking to transition their careers into these technology domains.
 
