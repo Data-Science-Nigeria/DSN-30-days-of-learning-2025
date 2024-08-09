@@ -97,7 +97,7 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 | 27    | [Manage and review models in Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/manage-review-models-azure-machine-learning/)                                      |
 | 28    | [Manage and review models in Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/manage-review-models-azure-machine-learning/)                                      |
 | 29    | [Deploy and consume models with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/deploy-consume-models-azure-machine-learning/)                                      |
-| 30    | | 19    | [Experiment with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/automate-machine-learning-model-selection-azure-machine-learning/)                                      |   
+| 30    | [Experiment with Azure Machine Learning](https://learn.microsoft.com/en-us/training/paths/automate-machine-learning-model-selection-azure-machine-learning/)                                      |   
 
 ## Practice 
 [Practice Assessment for Exam DP-100: Designing and Implementing a Data Science Solution on Azure](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/practice/assessment?assessment-type=practice&assessmentId=62&practice-assessment-type=certification)               
