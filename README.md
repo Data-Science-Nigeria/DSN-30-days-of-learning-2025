@@ -3,22 +3,14 @@
 [![Image](https://github.com/Data-Science-Nigeria/DSN-30-days-of-learning-2025/blob/main/images/Community%20Creatives%20to%20upload.pdf%20(44).png)]()
 
 
-<p align="center">
-  <a href="https://bit.ly/DSN24Prebootcamplearning">
-    <img src="https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023/blob/main/images/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png?raw=true" height="50" style="max-width: 100%;">
-  </a>
-</p>
-
 Our 30 days courses
-- Sign up here:[click to register](https://t.co/5ayemRWgmE)
-- [Tweet about the courses!](https://twitter.com/intent/tweet?text=Join%20the%2030%20Days%20of%20Learning%20organized%20by%20%40dsn_ai_network%20and%20level%20up%20your%20Skills%0A%0ACourses%3A%0AMicrosoft%20Power%20BI%0AMachine%20Learning%20with%20Python%20and%20Azure%0A%0ADon%27t%20miss%20out%20on%20this%20amazing%20opportunity%21%20Register%20here%3A%20bit.ly%2FDSN24Prebootcamplearning%20%2330daysLearning)
+- [Tweet about the courses!](https://twitter.com/intent/tweet?text=Join%20the%2030%20Days%20of%20Learning%20organized%20by%20%40dsn_ai_network%20and%20level%20up%20your%20Skills%0A%0ACourses%3A%0AMicrosoft%20Power%20BI%0AMachine%20Learning%20with%20Python%20and%20Azure%0A%0ADon%27t%20miss%20out%20on%20this%20amazing%20opportunity%20to%20join%20the%20all%20expensed-%20paid%20Bootcamp)
 - For announcements, join our [Telegram channel](https://t.me/+YvF8TQvmYmRhNjdk)
 
 ## Taking the courses
 
-### 2024 Cohort
-- Start: 12th August 2024 (Monday)
-- Registration link: https://bit.ly/DSN24Prebootcamplearning
+### 2025 Cohort
+- Start: 7th July 2025 (Monday)
 
 ### Self-paced Mode
 
