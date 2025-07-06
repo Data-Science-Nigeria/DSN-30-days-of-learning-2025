@@ -1,4 +1,4 @@
-# DSN X Microsoft-30-days-of-Online-Study-2024
+# DSN Pre-bootcamp 30-days-of-Online-Study-2025
 
 [![Image](https://github.com/Data-Science-Nigeria/DSN-30-days-of-learning-2024/blob/main/images/30%20(7).png)]()
 
