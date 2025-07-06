@@ -1,6 +1,6 @@
 # DSN Pre-bootcamp 30-days-of-Online-Study-2025
 
-[![Image](https://github.com/Data-Science-Nigeria/DSN-30-days-of-learning-2024/blob/main/images/30%20(7).png)]()
+[![Image](https://github.com/Data-Science-Nigeria/DSN-30-days-of-learning-2025/blob/main/images/Community%20Creatives%20to%20upload.pdf%20(44).png)]()
 
 
 <p align="center">
