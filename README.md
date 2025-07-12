@@ -10,7 +10,7 @@ Our 30 days courses
 ## Taking the courses
 
 ### 2025 Cohort
-- Start: 7th July 2025 (Monday)
+- Start: 11th July 2025 (Friday)
 
 ### Self-paced Mode
 
